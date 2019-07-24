@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484131148868",
+    "firebase_url": "https://firestorearray.firebaseio.com",
+    "project_id": "firestorearray",
+    "storage_bucket": "firestorearray.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484131148868:android:6df6d60bc8d162c6",
+        "android_client_info": {
+          "package_name": "com.ufinix.firestoreArray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484131148868-4lntvs5e12tq90f8n3vnpsg0jt2m7u6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7iIY3p9LzTUziW1srCWHCP1tZiEfFTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484131148868-4lntvs5e12tq90f8n3vnpsg0jt2m7u6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
